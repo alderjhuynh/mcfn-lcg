@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 88,
+    "supported_formats": {
+      "min_inclusive": 71,
+      "max_inclusive": 88
+    },
+    "description": "A LCG even though minecraft already supports random",
+    "min_format": 71,
+    "max_format": 88
+  }
+}
